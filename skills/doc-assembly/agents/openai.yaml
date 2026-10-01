@@ -1,0 +1,4 @@
+interface:
+  display_name: "DOC ASSEMBLY"
+  short_description: "Build Vellum-ready illustrated DOCX files"
+  default_prompt: "Assemble this manuscript and mapped images into a Vellum-ready illustrated DOCX."
