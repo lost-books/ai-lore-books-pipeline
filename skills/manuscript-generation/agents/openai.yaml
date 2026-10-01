@@ -1,0 +1,4 @@
+interface:
+  display_name: "TEXT GENERATION"
+  short_description: "Generate complete Pressworks-style manuscripts"
+  default_prompt: "Generate a complete manuscript from this title, premise, mode, and length."
