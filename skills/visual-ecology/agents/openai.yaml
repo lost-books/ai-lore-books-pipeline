@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Ecology"
+  short_description: "Develop varied visual worlds for book manuscripts"
+  default_prompt: "Run a Visual Ecology image round for this manuscript."
