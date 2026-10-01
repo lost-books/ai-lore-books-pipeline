@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gated Manuscript Generation"
+  short_description: "Preflight a book's approach, then write one manuscript"
+  default_prompt: "Use $gated-manuscript-generation to write a complete manuscript from this brief, applying internal preflight gates and the current Namer skill."
