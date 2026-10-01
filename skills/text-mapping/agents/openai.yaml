@@ -1,0 +1,4 @@
+interface:
+  display_name: "TEXT MAPPING"
+  short_description: "Map selected images to exact manuscript anchors"
+  default_prompt: "Map these selected images to the best locations in this manuscript."
