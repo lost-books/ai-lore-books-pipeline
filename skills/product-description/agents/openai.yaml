@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Description"
+  short_description: "Brief Lorecore book listings; prod desc for short"
+  default_prompt: "Use $product-description to draft a short Lorecore book description with [NUMBER] placeholders for image and word counts."
