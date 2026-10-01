@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gated Visual Ecology"
+  short_description: "Preflight book image rounds with unlettered covers"
+  default_prompt: "Use $gated-visual-ecology to generate a varied image round from this approved manuscript, with internal preflight checks and tall unlettered cover candidates."
